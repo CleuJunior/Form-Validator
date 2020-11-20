@@ -20,3 +20,8 @@ Tela de Erro
 Tela de Sucesso
 
 ![](tela-success.png)
+
+###### Como inicializar a aplicação
+
+Basta baixar ou clonar a repositório e abrir o arquivo index.html em um navegador.
+
